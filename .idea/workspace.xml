@@ -4,130 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f8eb63-526a-4c17-b03b-7af136be34a4" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cbd8cc34-91db-497a-ad4d-df13dcba488e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cbd8cc34-91db-497a-ad4d-df13dcba488e/storage_v2/_src_/schema/campus_flea.Qv_Mrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/SpringbootWxxApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/config/MyBatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/GoodsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/ChatMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/GoodsImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/GoodsReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/ProductChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/UserBan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/UserOnline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/ChatMessageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/GoodsImageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/GoodsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/GoodsReportMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/ProductChatMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/UserBanMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/UserOnlineMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/GoodsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/ProductChatService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/UserOnlineService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/util/ResponseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cc/springboot_wxx/SpringbootWxxApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/SpringbootWxxApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/config/MyBatisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/config/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/config/WebConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/GoodsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/MessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/ChatMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Goods$DealType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Goods$Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/GoodsImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/GoodsReport$Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/GoodsReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Order$Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/ProductChat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/User$Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/User$Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/UserBan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/UserOnline.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/CategoryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/ChatMessageMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/GoodsImageMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/GoodsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/GoodsReportMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/OrderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/ProductChatMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/UserBanMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/UserOnlineMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/GoodsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/MessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/ProductChatService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/UserOnlineService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/util/ResponseUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cc/springboot_wxx/SpringbootWxxApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/18e0c8b317874e48b63ff99fc8e9bce1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/3352b5c4527842f283cd6bbe2ae7f710.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/37a088123a7e45af91bc7f49789c2aec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/3a9471e510bc40e3a7220d48e44d2877.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/60d0638fc7d7459a9cf62cd4ff9ac08d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/869675ece26e40dfb9e0b815c175ecf8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/8d1b54a2e6ff4a42a61440e5cbbe46f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/afbdeea2c1df4cbfb481efc8045d3ce5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/b29e45390d774a5aa91a55a956af50a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/bbe3d8842b5c4da1929e3d83b48ac65d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/ce4f41305d3b4892920e11016e3dd348.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/ce550d52e2964fcbadbca424458ae425.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/cf08713781ea4e38a126113aeef94899.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/d401be97f54c45efad50f91f52e4366a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/d42d26ccc38244319825078322d2b0c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/dcb5200d8d844f24bf1f68e748b2cecc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/e3b40c18a2064f67ab73b2e6f8465299.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/fe63dc65379e47a09878a94e2d645ecc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/接口文档.md" afterDir="false" />
-    </list>
+    <list default="true" id="58f8eb63-526a-4c17-b03b-7af136be34a4" name="更改" comment="第一版" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,11 +131,24 @@
       <workItem from="1778135725938" duration="6739000" />
       <workItem from="1778200788523" duration="6522000" />
       <workItem from="1778287511190" duration="7008000" />
-      <workItem from="1778320794296" duration="1380000" />
+      <workItem from="1778320794296" duration="2277000" />
     </task>
+    <task id="LOCAL-00001" summary="第一版">
+      <option name="closed" value="true" />
+      <created>1778336774658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778336774658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一版" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一版" />
   </component>
 </project>

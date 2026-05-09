@@ -89,7 +89,7 @@ public class GoodsController {
     }
     
     /**
-     * 获取商品详情
+     * 获取商品详情 是的
      */
     @GetMapping("/{id}")
     @Operation(summary = "获取商品详情", description = "根据ID获取商品详情，同时增加浏览量")
