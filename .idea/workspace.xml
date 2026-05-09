@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58f8eb63-526a-4c17-b03b-7af136be34a4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cbd8cc34-91db-497a-ad4d-df13dcba488e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cbd8cc34-91db-497a-ad4d-df13dcba488e/storage_v2/_src_/schema/campus_flea.Qv_Mrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/SpringbootWxxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/config/MyBatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/GoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/ChatMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/GoodsImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/GoodsReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/ProductChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/UserBan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/entity/UserOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/ChatMessageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/GoodsImageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/GoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/GoodsReportMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/ProductChatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/UserBanMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/mapper/UserOnlineMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/GoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/ProductChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/UserOnlineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cc/springboot_wxx/util/ResponseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cc/springboot_wxx/SpringbootWxxApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/SpringbootWxxApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/config/MyBatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/GoodsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/MessageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/ChatMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Goods$DealType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Goods$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/GoodsImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/GoodsReport$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/GoodsReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Order$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/ProductChat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/User$Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/User$Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/UserBan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/entity/UserOnline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/ChatMessageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/GoodsImageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/GoodsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/GoodsReportMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/ProductChatMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/UserBanMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/mapper/UserOnlineMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/GoodsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/ProductChatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/UserOnlineService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cc/springboot_wxx/util/ResponseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cc/springboot_wxx/SpringbootWxxApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/18e0c8b317874e48b63ff99fc8e9bce1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/3352b5c4527842f283cd6bbe2ae7f710.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/37a088123a7e45af91bc7f49789c2aec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/3a9471e510bc40e3a7220d48e44d2877.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/60d0638fc7d7459a9cf62cd4ff9ac08d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/869675ece26e40dfb9e0b815c175ecf8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/8d1b54a2e6ff4a42a61440e5cbbe46f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/afbdeea2c1df4cbfb481efc8045d3ce5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/b29e45390d774a5aa91a55a956af50a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/bbe3d8842b5c4da1929e3d83b48ac65d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/ce4f41305d3b4892920e11016e3dd348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/ce550d52e2964fcbadbca424458ae425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/cf08713781ea4e38a126113aeef94899.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/d401be97f54c45efad50f91f52e4366a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/d42d26ccc38244319825078322d2b0c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/dcb5200d8d844f24bf1f68e748b2cecc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/e3b40c18a2064f67ab73b2e6f8465299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/fe63dc65379e47a09878a94e2d645ecc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口文档.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3CfCV3zymi6fW6vOUYCY5Yb6odV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.SpringbootWxxApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootWxxApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/Javaweb/campus_flea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.SpringbootWxxApplication">
+    <configuration name="SpringbootWxxApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_wxx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cc.springboot_wxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cc.springboot_wxx" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.springboot_wxx.SpringbootWxxApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWxxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_wxx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cc.springboot_wxx.SpringbootWxxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootWxxApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="58f8eb63-526a-4c17-b03b-7af136be34a4" name="更改" comment="" />
+      <created>1776767258628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776767258628</updated>
+      <workItem from="1776767259795" duration="3181000" />
+      <workItem from="1776777574995" duration="1731000" />
+      <workItem from="1776781191440" duration="40000" />
+      <workItem from="1776815835474" duration="5458000" />
+      <workItem from="1776834042903" duration="2664000" />
+      <workItem from="1776857462836" duration="2090000" />
+      <workItem from="1776862155513" duration="1456000" />
+      <workItem from="1776901996612" duration="8168000" />
+      <workItem from="1776920230783" duration="10876000" />
+      <workItem from="1776950865641" duration="3902000" />
+      <workItem from="1776989547761" duration="7172000" />
+      <workItem from="1777021000217" duration="9636000" />
+      <workItem from="1777085352459" duration="281000" />
+      <workItem from="1777201870490" duration="259000" />
+      <workItem from="1777249808494" duration="987000" />
+      <workItem from="1777251709194" duration="1702000" />
+      <workItem from="1777273318920" duration="352000" />
+      <workItem from="1777291584591" duration="843000" />
+      <workItem from="1777294566385" duration="2791000" />
+      <workItem from="1777384210312" duration="2151000" />
+      <workItem from="1777425713596" duration="6221000" />
+      <workItem from="1777450513009" duration="1292000" />
+      <workItem from="1777739411944" duration="13000" />
+      <workItem from="1778038233983" duration="2175000" />
+      <workItem from="1778055962376" duration="2036000" />
+      <workItem from="1778067174852" duration="1668000" />
+      <workItem from="1778072572895" duration="2478000" />
+      <workItem from="1778114172449" duration="3834000" />
+      <workItem from="1778135725938" duration="6739000" />
+      <workItem from="1778200788523" duration="6522000" />
+      <workItem from="1778287511190" duration="7008000" />
+      <workItem from="1778320794296" duration="1380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
